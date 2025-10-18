@@ -1,0 +1,5 @@
+{
+  "name": "Vikas Speaks AI Assistant",
+  "description": "An AI-powered assistant website that performs real-time research, summarizes key insights, and generates scripts based on user-provided topics using the Gemini API.",
+  "requestFramePermissions": []
+}
